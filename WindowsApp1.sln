@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApp1", "WindowsApp1\WindowsApp1.vbproj", "{3A806260-CEC4-476A-9E4D-B16942FA19C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3A9E32D8-68CB-490A-9F03-BBD212713CDC}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		WindowsApp1\bin\Debug\my_app_data.db = WindowsApp1\bin\Debug\my_app_data.db
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A806260-CEC4-476A-9E4D-B16942FA19C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A806260-CEC4-476A-9E4D-B16942FA19C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A806260-CEC4-476A-9E4D-B16942FA19C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A806260-CEC4-476A-9E4D-B16942FA19C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A2106AF-F58F-4694-8F65-2C2B52297612}
+	EndGlobalSection
+EndGlobal
